@@ -1,0 +1,6 @@
+*.bin
+*.zip
+*.tar
+*.tar.gz
+backups/
+.DS_Store
